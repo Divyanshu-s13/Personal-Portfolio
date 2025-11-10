@@ -25,7 +25,7 @@ const Footer = () => {
         <div>
           <h5 className='font-medium mb-5'>Accessibility</h5>
           <ul className='flex flex-col gap-2 text-base lg:text-lg'>
-            <li>Mon - Fri: 9:00 - 5:00</li>
+  
             <li>24/7 WhatsApp & Email</li>
           </ul>
         </div>
