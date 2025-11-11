@@ -121,7 +121,6 @@ const Hero = () => {
             </defs>
           </svg>
         </div>
-        
       </div>
 
       {/* Popup Modal */}
