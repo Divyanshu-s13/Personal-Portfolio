@@ -39,7 +39,7 @@ const About = () => {
           
           {/* Resume button - bottom right */}
           <a 
-            href="/resume.pdf" 
+            href="/Resume-Divyanshu singh (18).pdf" 
             target="_blank"
             rel="noopener noreferrer"
             className="absolute bottom-8 right-8 btn uppercase font-heading border-2 border-transparent text-center px-8 py-3 rounded-full text-base lg:text-lg"
